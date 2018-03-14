@@ -1,0 +1,57 @@
+body {
+	margin: 0;
+	background-color: white;
+}
+
+.img-container {
+	text-align: center;
+	padding-top: 40px;
+}
+
+.search-container p {
+	text-align: center;
+	float: center;
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 450px;
+	font-family: helvetica;
+	font-size: 20px;
+}
+
+.search-container input {
+	height: 20px;
+	width: 200px;
+	border-radius: 3px;
+	border: 2px solid silver;
+	padding-left: 10px;
+
+}
+
+.search-container button {
+	height: 22px;
+	width: 80px;
+	border-radius: 3px;
+	border-color: silver;
+}
+
+.social-container {
+	margin-top: 20px;
+	margin-left: 1170px;
+}
+
+.social-container img {
+	width: 36px;
+	height: 36px;
+	display: inline-block;
+	padding-left: 10px;
+	margin-top: 5px;
+}
+
+h6 {
+	text-align: center;
+	margin-top: 10px;
+	font-size: 15px;
+	font-family: helvetica;
+}
+
+	
